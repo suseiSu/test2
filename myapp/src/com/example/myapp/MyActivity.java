@@ -1,20 +1,13 @@
-package com.example.myapp;
-//xxx
-import android.app.Activity;
-import android.os.Bundle;
-import android.view.View;
-import android.widget.Button;
+/* 
+* @Author: Marte
+* @Date:   2015-10-18 08:34:15
+* @Last Modified by:   Marte
+* @Last Modified time: 2015-10-18 08:56:18
+*/
 
-public class MyActivity extends Activity {
-    /**
-     * Called when the activity is first created.
-     */
-    @Override
-    public void onCreate(Bundle savedInstanceState) {
-        super.onCreate(savedInstanceState);
-        setContentView(R.layout.main);
-
-        Button bt = (Button) findViewById(R.id.bt);
-
+public class java {
+    public static void main(String[] args) {
+        System.out.println("susei");
+        System
     }
 }
