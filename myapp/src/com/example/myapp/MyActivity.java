@@ -9,7 +9,7 @@ public class java {
     public static void main(String[] args) {
         System.out.println("susei");
         System
-        QUQUQUQ 
+        QUNAQUNAQUNAQ 
         1-5
         1-5-1
         1-5-2
